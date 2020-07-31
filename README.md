@@ -22,6 +22,15 @@ gm_shares = {2018:1431 , 2017:1492 , 2016: 1570, 2015: 1640}
 
 ford_shares={2018: 3998, 2017:3998 , 2016: 3999, 2015: 4002}
 
+## Results
+
+1. Analysing the period of dominance of t_esla over G_M and f_ord
+
+2. Checking overall trend along with daily, seasonally and yearly
+
+3. forecating for next 3 years
+
+
 ## Requirements
 
 Python 3.6+
